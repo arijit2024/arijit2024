@@ -68,8 +68,8 @@ As a full-stack developer with expertise in both backend and frontend technologi
 
 Feel free to contact me about the problems. I will try to help as much as I can 😉
 
-[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Graphic11646972)
-[![Instagram Badge](https://img.shields.io/badge/instagram-fb3958?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/99graphics_design/)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avijit-rath-34478869/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:avijit@99graphicsdesign.com)](mailto:avijit@99graphicsdesign.com)
-[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avijit2rath)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![Instagram Badge](https://img.shields.io/badge/instagram-fb3958?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:avijit@99graphicsdesign.com)]()
+[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)]()
