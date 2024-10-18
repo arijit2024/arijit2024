@@ -63,16 +63,6 @@ As a full-stack developer with expertise in both backend and frontend technologi
 
 ## ⭐ Some of my projects
 
-- [Collection of React Projects] - **Recommended** ✨
-- [Reddit App] - **Recommended** ✨
-- [Github Profile Search]
-- [Todo App]
-
-## 📃 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Why is Mobile App Development Important for Business?](https://99graphicsdesign.com/why-is-mobile-app-development-important-for-business/)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤙🏻 You can reach out
 
