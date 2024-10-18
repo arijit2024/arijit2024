@@ -1,4 +1,4 @@
-## 😎 Avijit's Github Profile
+## 😎 arijit Github Profile
 
 As a full-stack developer with expertise in both backend and frontend technologies, I’ve worked extensively with a variety of tools and frameworks. On the backend, I’m well-versed in Laravel (a PHP framework), which allows me to build robust APIs and handle server-side logic efficiently. For databases, I’ve used MySQL, PostgreSQL, and MongoDB.
 
