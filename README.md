@@ -1,5 +1,5 @@
 ## Arijit Github Profile
-<img src="https://tenor.com/view/lorem-gif-6716514511365493061">
+[![](https://tenor.com/view/lorem-gif-6716514511365493061)]()
 
 As a full-stack developer with expertise in both backend and frontend technologies, I’ve worked extensively with a variety of tools and frameworks. On the backend, I’m well-versed in Laravel (a PHP framework), which allows me to build robust APIs and handle server-side logic efficiently. For databases, I’ve used MySQL, PostgreSQL, and MongoDB.
 
