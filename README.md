@@ -1,5 +1,5 @@
 ## Arijit Github Profile
-
+https://tenor.com/view/lorem-gif-6716514511365493061
 As a full-stack developer with expertise in both backend and frontend technologies, I’ve worked extensively with a variety of tools and frameworks. On the backend, I’m well-versed in Laravel (a PHP framework), which allows me to build robust APIs and handle server-side logic efficiently. For databases, I’ve used MySQL, PostgreSQL, and MongoDB.
 
 On the frontend, I specialize in Next.js and React, creating dynamic and responsive user interfaces. JavaScript is my go-to language for client-side development. Additionally, I’ve customized WordPress and WooCommerce sites, integrating them seamlessly with various APIs and third-party services.
