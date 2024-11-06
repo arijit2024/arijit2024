@@ -1,50 +1,58 @@
-# Hi, I'm Arijit 👋
+# Arijit Sarkar 👨‍💻
 
-I'm a **Full Stack Web Developer** and **Software Engineer** with 1+ years of experience in building dynamic, responsive web and mobile applications. I specialize in **React**, **Next.js**, **Laravel**, and the **MERN Stack**.
+**Full Stack Web Developer** | **Software Engineer** | **AI Enthusiast**
 
-I also have a passion for **UI/UX design**, and enjoy prototyping with **Figma**, **Webflow**, and **Wix**. 
-
-Feel free to check out my projects below, and don't hesitate to reach out if you need help or want to collaborate!
+Welcome to my GitHub profile! I'm a passionate and skilled Full Stack Web Developer with 2+ years of experience in building dynamic, responsive web and mobile applications. I specialize in both frontend and backend development, and I also enjoy crafting seamless and engaging user experiences through UI/UX design.
 
 ---
 
+### 🌟 Check out my Portfolio
+
+✨ Discover my work and projects in tech and design. Dive into my creative journey here:  
+🔗 [My Portfolio](https://lnkd.in/dp7r7FQM)
+
+
 ### 🚀 Technologies & Tools
 
-- **Frontend**: React, Next.js, Vue.js, HTML, CSS, JavaScript
-- **Backend**: Laravel, Node.js, MongoDB, MySQL, PostgreSQL
-- **Mobile Apps**: React Native, Flutter
-- **Design**: Figma, Webflow, Wix
-- **Blockchain**: Ethereum, Solana
+- **Frontend**:  
+  HTML, CSS, JavaScript, React, jQuery, Bootstrap, Webflow, Wix
+
+- **Backend**:  
+  Node.js, PHP, MySQL
+
+- **Mobile Development**:  
+  React Native
+
+- **Design**:  
+  Figma, Photoshop, Canva
+
+- **Version Control**:  
+  Git, GitHub
 
 ---
 
 ### 🎯 Currently Learning
-- Exploring **Next 14** and **AI** development.
+
+- Exploring **Next.js 14** for improved server-side rendering and performance.  
+- Diving into **AI** and **Machine Learning** development to integrate smarter solutions into my projects.
 
 ---
 
-### 🌍 Community & Education
+### 🌍 Community Engagement & Education
 
-- Conducting workshops on **Digital Skills** and **Entrepreneurship**.
-- Mentoring youth in **STEM** education and **coding**.
-
----
-
-### 📬 Let's Connect
-
-Feel free to reach out for collaborations, questions, or just to say hi!
-
-- [Twitter](https://twitter.com/yourprofile)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourprofile)
-- [Email](mailto:your-email@example.com)
+- Leading workshops on **Digital Skills**, **Entrepreneurship**, and **STEM Education** to empower the next generation of tech leaders.  
+- Mentoring youth and aspiring developers in **coding**, **web development**, and **technology**.
 
 ---
+### 📬 Let's Connect!
 
-### 💡 Some of My Projects
+I'm always open to new opportunities, collaborations, or just a good conversation. Feel free to reach out if you have any questions or want to discuss potential projects.
 
-- **[Project 1](link)** – Brief description of the project.
-- **[Project 2](link)** – Brief description of the project.
+- [LinkedIn](https://lnkd.in/d_rZjsfZ)   
+- [Instagram](https://lnkd.in/duFzjYXa)  
+- [Facebook](https://lnkd.in/d8i5hhRa)  
+- [Email](mailto:arijitsarkar2230@gmail.com)
+- [GitHub](https://lnkd.in/daafVrtV) 
 
 ---
 
